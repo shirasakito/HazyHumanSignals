@@ -6,3 +6,7 @@ Return hazy value that human signals in a place.
 
 ## 概要
 GIS を利用したあいまいなコミュニケーションを模索するもの。
+
+- Wi-Fi
+- Bluetooth
+- Raspberry Pi
