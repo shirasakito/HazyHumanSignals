@@ -1,2 +1,3 @@
-def Oru
-def Oran
+def oru
+
+def oran
